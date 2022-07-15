@@ -5,7 +5,7 @@ I am a computer science major currently attending Virginia Tech
 ---------------------------------------------------------------
 
 * 🌍  I'm based in Blacksburg, Virginia, United States
-* 🖥️  See my portfolio at [Github](http://https://github.com/Subeom7)
+* 🖥️  See my portfolio at [Github](https://github.com/Subeom7/subeom7.github.io)
 * ✉️  You can contact me at [subeomkwon@gmail.com](mailto:subeomkwon@gmail.com)
 * 🚀  I'm currently working on [IOS Educational Geography App](http://https://github.com/thinh01/geography)
 * 🧠  I'm learning web developement using MERN stack
